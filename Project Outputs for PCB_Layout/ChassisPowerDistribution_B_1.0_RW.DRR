@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ChassisPowerDistribution_B_1.0_RW.PcbDoc   1/15/2020  7:48:04 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ChassisPowerDistribution_B_1.0_RW-RoundHoles.TXT
+ASCII SlotHoles File : ChassisPowerDistribution_B_1.0_RW-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             65        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T3      32mil (0.82mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T4      39mil (0.99mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T5      39mil (0.991mm)                                           Slot              4         PTH        0.00inch (0.00mm)
+T6      40mil (1.016mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T7      49mil (1.25mm)                                            Round             26        PTH        0.00inch (0.00mm)
+T8      50mil (1.274mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T9      55mil (1.4mm)                                             Round             21        PTH        0.00inch (0.00mm)
+T10     72mil (1.824mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T11     118mil (2.997mm)                                          Round             4         PTH        0.00inch (0.00mm)
+T12     40mil (1.016mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+T13     47mil (1.2mm)                                             Round             13        NPTH       0.00inch (0.00mm)
+T14     126mil (3.2mm)                                            Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              178
+
+Total Processing Time (hh:mm:ss) : 00:00:00
