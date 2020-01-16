@@ -1251,41 +1251,95 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNVIXXOP
 
-[Document6]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for PCB_Layout\ChassisPowerDistribution_B_1.0_RW.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=Project Outputs for PCB_Layout\Design Rule Check - ChassisPowerDistribution_B_1.html
 DItemRevisionGUID=
 
