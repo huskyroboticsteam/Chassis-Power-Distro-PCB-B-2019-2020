@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\warre\Documents\Husky Robotics\GitHub\Chassis-Power-Distro-PCB-B-2019-2020\ChassisPowerDistribution_B_1.0_RW.PcbDoc
 Date     : 1/15/2020
-Time     : 8:44:32 PM
+Time     : 8:46:19 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
