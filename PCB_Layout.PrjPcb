@@ -122,6 +122,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNVIXXOP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Layout\Design Rule Check - ChassisPowerDistribution_B_1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
