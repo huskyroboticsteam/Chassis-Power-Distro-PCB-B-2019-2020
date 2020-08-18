@@ -75,6 +75,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SOAODZFY
 
 [Document3]
+DocumentPath=CAN.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EUCGWFPN
+
+[Document4]
 DocumentPath=Microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORGVJHXB
 
-[Document4]
+[Document5]
 DocumentPath=Output Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,23 +124,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XAXKENEE
-
-[Document5]
-DocumentPath=CAN.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EUCGWFPN
 
 [Configuration1]
 Name=Sources
