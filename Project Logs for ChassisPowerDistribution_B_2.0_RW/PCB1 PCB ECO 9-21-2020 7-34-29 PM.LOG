@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPPR80-750-2000X1800X2200 New Footprint=CAP_SMD_CAN
+Change Component Footprint: Designator=C6 Old Footprint=CAPPR80-750-2000X1800X2200 New Footprint=CAP_SMD_CAN
+Change Component Footprint: Designator=C9 Old Footprint=CAPPR80-750-2000X1800X2200 New Footprint=CAP_SMD_CAN
+Change Component Comment : Designator=C3 Old Comment=UHE2A331MHD6 New Comment=Motor Capacitor SMD
+Change Component Comment : Designator=C6 Old Comment=UHE2A331MHD6 New Comment=Motor Capacitor SMD
+Change Component Comment : Designator=C9 Old Comment=UHE2A331MHD6 New Comment=Motor Capacitor SMD
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=38A31A43-82EC-489C-B9CA-6CC5756D199F New ItemGUID= Old RevisionGUID=DAFFEC69-86B4-4AF8-AEFF-FF8FE21C6B25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=38A31A43-82EC-489C-B9CA-6CC5756D199F New ItemGUID= Old RevisionGUID=DAFFEC69-86B4-4AF8-AEFF-FF8FE21C6B25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=38A31A43-82EC-489C-B9CA-6CC5756D199F New ItemGUID= Old RevisionGUID=DAFFEC69-86B4-4AF8-AEFF-FF8FE21C6B25 New RevisionGUID=
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPPR80-750-2000X1800X2200"; UniqueID = "\JKQWIDZD" ("\JKQWIDZD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "EEE-FK1V331AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-fk1v331ap/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/eee-fk1v331ap/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FK1V331AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FK1V331AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=fgLb7gR0z4waT8A8J1cE1w%3d%3d"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPPR80-750-2000X1800X2200"; UniqueID = "\JWIXTHQU" ("\JWIXTHQU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "EEE-FK1V331AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-fk1v331ap/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/eee-fk1v331ap/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FK1V331AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FK1V331AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=fgLb7gR0z4waT8A8J1cE1w%3d%3d"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPPR80-750-2000X1800X2200"; UniqueID = "\HZRNSDNB" ("\HZRNSDNB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "EEE-FK1V331AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-fk1v331ap/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/eee-fk1v331ap/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FK1V331AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FK1V331AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=fgLb7gR0z4waT8A8J1cE1w%3d%3d"; VariantName = "[No Variations]"

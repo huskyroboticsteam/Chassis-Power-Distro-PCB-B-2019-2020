@@ -1,0 +1,171 @@
+Removed Pin From Net: NetName=Dip4 Pin=SW1-5
+Removed Pin From Net: NetName=Dip3 Pin=SW1-6
+Removed Pin From Net: NetName=Dip2 Pin=SW1-7
+Removed Pin From Net: NetName=Dip1 Pin=SW1-8
+Removed Pin From Net: NetName=CANTX Pin=TP10-1
+Removed Pin From Net: NetName=CANRX Pin=TP11-1
+Change Component Comment : Designator=R12 Old Comment=1 kOhm New Comment=Resistor 0805
+Change Component Comment : Designator=R10 Old Comment=2.2k Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R11 Old Comment=2.2k Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R4 Old Comment=2 mOhm New Comment=Resistor 0805
+Change Component Comment : Designator=R5 Old Comment=2 mOhm New Comment=Resistor 0805
+Change Component Comment : Designator=R6 Old Comment=2 mOhm New Comment=Resistor 0805
+Change Component Comment : Designator=R7 Old Comment=2 mOhm New Comment=Resistor 0805
+Change Component Comment : Designator=R8 Old Comment=4.7 kOhm New Comment=Resistor 0805
+Change Component Comment : Designator=R9 Old Comment=4.7 kOhm New Comment=Resistor 0805
+Change Component Comment : Designator=R2 Old Comment=21k Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R19 Old Comment=47 kOhm New Comment=Resistor 0805
+Change Component Comment : Designator=R3 Old Comment=78.7k Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R14 Old Comment=120 Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R20 Old Comment=120R New Comment=Resistor 0805
+Change Component Comment : Designator=R16 Old Comment=200 Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R13 Old Comment=300 Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R15 Old Comment=300 Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R17 Old Comment=300 Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R18 Old Comment=300 Ohm New Comment=Resistor 0805
+Change Component Comment : Designator=R1 Old Comment=732 Ohm New Comment=Resistor 0805
+Change Component Designator: OldDesignator=R10 NewDesignator=R14
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Designator: OldDesignator=R12 NewDesignator=R16
+Change Component Designator: OldDesignator=R13 NewDesignator=R17
+Change Component Designator: OldDesignator=R14 NewDesignator=R18
+Change Component Designator: OldDesignator=R15 NewDesignator=R19
+Change Component Designator: OldDesignator=R16 NewDesignator=R20
+Change Component Designator: OldDesignator=R17 NewDesignator=R21
+Change Component Designator: OldDesignator=R18 NewDesignator=R22
+Change Component Designator: OldDesignator=R19 NewDesignator=R23
+Change Component Designator: OldDesignator=R20 NewDesignator=R24
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC0805(2012)_N"; UniqueID = "\KKHOXUNV" ("\KKHOXUNV")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21 kOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC0805(2012)_N"; UniqueID = "\FKFHVANQ" ("\FKFHVANQ")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "78.7 kOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC0805(2012)_N"; UniqueID = "\FZTINPUU" ("\FZTINPUU")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2 kOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC0805(2012)_N"; UniqueID = "\TBKVTWKE" ("\TBKVTWKE")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2 kOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESC0805(2012)_N"; UniqueID = "\OXHJLCMM" ("\OXHJLCMM")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "300 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RESC0805(2012)_N"; UniqueID = "\SZPVGDWY" ("\SZPVGDWY")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC0805(2012)_N"; UniqueID = "\CKSHGMEK" ("\CKSHGMEK")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC0805(2012)_N"; UniqueID = "\YVKIGUBZ" ("\YVKIGUBZ")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 kOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "RESC0805(2012)_N"; UniqueID = "\DSRSUXDE" ("\DSRSUXDE")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2013X140X50LL20T25)
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/cx5r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "05/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 2.01 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Cap 0805)
+Added Component: Designator=C8(Cap 0805)
+Added Component: Designator=C10(Cap 0805)
+Added Component: Designator=C11(Cap 0805)
+Added Component: Designator=C12(Cap 0805)
+Added Component: Designator=C13(Cap 0805)
+Added Component: Designator=C14(Cap 0805)
+Added Component: Designator=C15(Cap 0805)
+Added Component: Designator=C16(Cap 0805)
+Added Component: Designator=C17(Cap 0805)
+Added Component: Designator=C18(Cap 0805)
+Added Component: Designator=C19(Cap 0805)
+Added Component: Designator=C20(Cap 0805)
+Added Component: Designator=C21(Cap 0805)
+Added Component: Designator=C22(Cap 0805)
+Added Component: Designator=C23(Cap 0805)
+Added Component: Designator=R10(RESC0805(2012)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC0805(2012)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC0805(2012)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC0805(2012)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Power_In Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=Dip1 Pin=R10-2
+Added Pin To Net: NetName=Dip2 Pin=R11-2
+Added Pin To Net: NetName=Dip3 Pin=R12-2
+Added Pin To Net: NetName=Dip4 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=Reset-1a
+Added Pin To Net: NetName=GND Pin=Reset-1b
+Added Pin To Net: NetName=+5 Pin=Reset-2a
+Added Pin To Net: NetName=Reset Pin=Reset-2b
+Added Pin To Net: NetName=GND Pin=TP10-1
+Added Pin To Net: NetName=+5 Pin=TP11-1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=SW1-8
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=SW1-7
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=SW1-6
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=SW1-5
+Added Net: Name=NetR13_1
+Added Member To Class: ClassName=Converters Member=Component C2 0805ZD225KAT2A
+Added Member To Class: ClassName=CAN Member=Component R10 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R11 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R12 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R13 Resistor 0805

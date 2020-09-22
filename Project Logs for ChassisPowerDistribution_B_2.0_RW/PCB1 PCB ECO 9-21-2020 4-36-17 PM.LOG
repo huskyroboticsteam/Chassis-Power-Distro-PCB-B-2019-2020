@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=3.3V Out Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=5V Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=5V Out Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=12V Out Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=24V Out Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=CAN Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=Debug Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=Fault Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=PowerIn Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=Standard Header Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Added Component: Designator=C2(Cap 0805)
+Added Component: Designator=C5(Cap 0805)
+Added Component: Designator=C8(Cap 0805)
+Added Component: Designator=C10(Cap 0805)
+Added Component: Designator=C11(Cap 0805)
+Added Component: Designator=C12(Cap 0805)
+Added Component: Designator=C13(Cap 0805)
+Added Component: Designator=C14(Cap 0805)
+Added Component: Designator=C15(Cap 0805)
+Added Component: Designator=C16(Cap 0805)
+Added Component: Designator=C17(Cap 0805)
+Added Component: Designator=C18(Cap 0805)
+Added Component: Designator=C19(Cap 0805)
+Added Component: Designator=C20(Cap 0805)
+Added Component: Designator=C21(Cap 0805)
+Added Component: Designator=C22(Cap 0805)
+Added Component: Designator=C23(Cap 0805)

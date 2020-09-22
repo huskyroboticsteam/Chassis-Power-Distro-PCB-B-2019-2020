@@ -1,0 +1,26 @@
+Added Component: Designator=C2(Cap 0805)
+Added Component: Designator=C5(Cap 0805)
+Added Component: Designator=C8(Cap 0805)
+Added Component: Designator=C10(Cap 0805)
+Added Component: Designator=C11(Cap 0805)
+Added Component: Designator=C12(Cap 0805)
+Added Component: Designator=C13(Cap 0805)
+Added Component: Designator=C14(Cap 0805)
+Added Component: Designator=C15(Cap 0805)
+Added Component: Designator=C16(Cap 0805)
+Added Component: Designator=C17(Cap 0805)
+Added Component: Designator=C18(Cap 0805)
+Added Component: Designator=C19(Cap 0805)
+Added Component: Designator=C20(Cap 0805)
+Added Component: Designator=C21(Cap 0805)
+Added Component: Designator=C22(Cap 0805)
+Added Component: Designator=C23(Cap 0805)
+Added Component: Designator=Programming Header(programming3D)
+Added Pin To Net: NetName=+5 Pin=Programming Header-1
+Added Pin To Net: NetName=PRG_Data Pin=Programming Header-2
+Added Pin To Net: NetName=GND Pin=Programming Header-3
+Added Pin To Net: NetName=PRG_Clock Pin=Programming Header-4
+Added Pin To Net: NetName=GND Pin=Programming Header-5
+Added Pin To Net: NetName=GND Pin=Programming Header-9
+Added Pin To Net: NetName=Reset Pin=Programming Header-10
+Added Member To Class: ClassName=Connectors Member=Component Programming Header

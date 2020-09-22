@@ -1,0 +1,74 @@
+Removed Member From Class: ClassName=CAN Member=R19
+Removed Member From Class: ClassName=CAN Member=R21
+Removed Member From Class: ClassName=CAN Member=R22
+Removed Member From Class: ClassName=LEDs Member=R23
+Removed Member From Class: ClassName=CAN Member=R24
+Removed Member From Class: ClassName=LEDs Member=R24
+Change Component Footprint: Designator=C2 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C5 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C8 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C10 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C11 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C12 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C13 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C14 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C15 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C16 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C17 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C18 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C19 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C20 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C21 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C22 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C23 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change component parameters: Designator = "C2" ("C2"); Footprint = "Cap 0805"; UniqueID = "\CJBLDTVT" ("\CJBLDTVT")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.2 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "Cap 0805"; UniqueID = "\NAXSONLI" ("\NAXSONLI")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.2 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "Cap 0805"; UniqueID = "\KXAWADLR" ("\KXAWADLR")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.2 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "Cap 0805"; UniqueID = "\HDLNLTYI" ("\HDLNLTYI")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "Cap 0805"; UniqueID = "\UQFYLIUB" ("\UQFYLIUB")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "Cap 0805"; UniqueID = "\QPYLIRYY" ("\QPYLIRYY")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "Cap 0805"; UniqueID = "\OXXPBVVM" ("\OXXPBVVM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "Cap 0805"; UniqueID = "\GKQRLYAZ" ("\GKQRLYAZ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Converters Member=Component C2 Capacitor 0805
+Added Member To Class: ClassName=CAN Member=Component R10 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R11 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R12 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R13 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R14 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R15 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R16 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R17 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R18 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R20 Resistor 0805

@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=CAN Member=R19
+Removed Member From Class: ClassName=CAN Member=R21
+Removed Member From Class: ClassName=CAN Member=R22
+Removed Member From Class: ClassName=LEDs Member=R23
+Removed Member From Class: ClassName=CAN Member=R24
+Removed Member From Class: ClassName=LEDs Member=R24
+Added Component: Designator=C2(Cap 0805)
+Added Component: Designator=C5(Cap 0805)
+Added Component: Designator=C8(Cap 0805)
+Added Component: Designator=C10(Cap 0805)
+Added Component: Designator=C11(Cap 0805)
+Added Component: Designator=C12(Cap 0805)
+Added Component: Designator=C13(Cap 0805)
+Added Component: Designator=C14(Cap 0805)
+Added Component: Designator=C15(Cap 0805)
+Added Component: Designator=C16(Cap 0805)
+Added Component: Designator=C17(Cap 0805)
+Added Component: Designator=C18(Cap 0805)
+Added Component: Designator=C19(Cap 0805)
+Added Component: Designator=C20(Cap 0805)
+Added Component: Designator=C21(Cap 0805)
+Added Component: Designator=C22(Cap 0805)
+Added Component: Designator=C23(Cap 0805)
+Added Member To Class: ClassName=CAN Member=Component R10 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R11 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R12 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R13 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R14 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R15 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R16 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R17 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R18 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R20 Resistor 0805
