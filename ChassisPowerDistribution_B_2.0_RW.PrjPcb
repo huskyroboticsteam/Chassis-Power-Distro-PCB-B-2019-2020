@@ -143,7 +143,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XAXKENEE
 
 [Document7]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=ChassisPowerDistribution_B_2.0_RW.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,7 +157,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DLKYAFSJ
+DocumentUniqueId=MOAHLJRJ
 
 [Configuration1]
 Name=Sources

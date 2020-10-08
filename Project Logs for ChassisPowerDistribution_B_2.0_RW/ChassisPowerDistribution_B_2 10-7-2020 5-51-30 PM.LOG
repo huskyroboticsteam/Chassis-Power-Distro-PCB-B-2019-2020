@@ -1,0 +1,64 @@
+Change Component Footprint: Designator=3.3V Out Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=5V Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=5V Out Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=12V Out Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=24V Out Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=CAN Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=Debug Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=Fault Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=PowerIn Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=C2 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C5 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C8 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C10 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C11 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C12 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C13 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C14 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C15 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C16 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C17 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C18 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C19 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C20 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C21 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C22 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C23 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=Standard Header1 Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Component Footprint: Designator=Standard Header2 Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Component Footprint: Designator=Standard Header3 Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Added Component: Designator=Standard Header(SMTC-SSQ-108-02-X-D)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/SSQ_TH.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/SSQ-1XX-XX-XXX-X-XX-XXX-XX-X-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Assembly, Socket Strip .025[0.64] SQ Tail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SSQ-108-02-X-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "BD, 6/1987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SSQ-108-02-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_Out Pin=Standard Header-1
+Added Pin To Net: NetName=3V3_Out Pin=Standard Header-2
+Added Pin To Net: NetName=CANH Pin=Standard Header-3
+Added Pin To Net: NetName=CANL Pin=Standard Header-4
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-5
+Added Pin To Net: NetName=GND Pin=Standard Header-6
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-7
+Added Pin To Net: NetName=GND Pin=Standard Header-8
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-9
+Added Pin To Net: NetName=GND Pin=Standard Header-10
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-11
+Added Pin To Net: NetName=GND Pin=Standard Header-12
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-13
+Added Pin To Net: NetName=GND Pin=Standard Header-14
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-15
+Added Pin To Net: NetName=GND Pin=Standard Header-16
+Added Member To Class: ClassName=Connectors Member=Component Standard Header Stacking Header

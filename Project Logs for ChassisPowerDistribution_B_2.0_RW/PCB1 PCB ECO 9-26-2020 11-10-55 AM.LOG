@@ -1,0 +1,8 @@
+Added Component: Designator=F1(Screw Hole)
+Added Component: Designator=F2(Screw Hole)
+Added Component: Designator=F3(Screw Hole)
+Added Component: Designator=F4(Screw Hole)
+Added Member To Class: ClassName=Microcontroller Member=Component F1 Screw Hole
+Added Member To Class: ClassName=Microcontroller Member=Component F2 Screw Hole
+Added Member To Class: ClassName=Microcontroller Member=Component F3 Screw Hole
+Added Member To Class: ClassName=Microcontroller Member=Component F4 Screw Hole
