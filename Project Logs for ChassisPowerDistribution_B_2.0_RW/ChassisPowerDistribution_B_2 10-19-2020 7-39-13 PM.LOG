@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=Standard Header Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Component Comment : Designator=R4 Old Comment=Resistor 0805 New Comment=2.5 mOhm
+Change Component Comment : Designator=R5 Old Comment=Resistor 0805 New Comment=2.5 mOhm
+Change Component Comment : Designator=R6 Old Comment=Resistor 0805 New Comment=2.5 mOhm
+Change Component Comment : Designator=R7 Old Comment=Resistor 0805 New Comment=2.5 mOhm
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC0805(2012)_N"; UniqueID = "\YZKFMWJG" ("\YZKFMWJG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/SR32L500FE66/7560303?s=N4IgTCBcDaIM4CcDMYA2BWADJkBdAvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/31067/sr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "541-3933-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC0805(2012)_N"; UniqueID = "\CMFQTIXL" ("\CMFQTIXL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/SR32L500FE66/7560303?s=N4IgTCBcDaIM4CcDMYA2BWADJkBdAvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/31067/sr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "541-3933-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC0805(2012)_N"; UniqueID = "\LXXQLHJV" ("\LXXQLHJV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/SR32L500FE66/7560303?s=N4IgTCBcDaIM4CcDMYA2BWADJkBdAvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/31067/sr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "541-3933-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RESC0805(2012)_N"; UniqueID = "\VJBZLPMZ" ("\VJBZLPMZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/SR32L500FE66/7560303?s=N4IgTCBcDaIM4CcDMYA2BWADJkBdAvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/31067/sr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "541-3933-ND"; VariantName = "[No Variations]"
