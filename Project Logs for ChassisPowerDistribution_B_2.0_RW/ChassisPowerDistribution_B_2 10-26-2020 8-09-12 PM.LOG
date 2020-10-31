@@ -1,0 +1,121 @@
+Change Physical Footprint: Designator=3.3V Out Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=3V3_1 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=3V3_2 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=3V3_3 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=5V Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=5V_1 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=5V_2 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=5V_3 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=5V_4 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=5V Out Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=12V_1 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=12V_2 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=12V_3 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=12V Out Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=24V_1 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=24V_2 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=24V_3 Old Footprint=power connector New Footprint=power connector
+Change Physical Footprint: Designator=24V Out Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=BatteryIn1 Old Footprint=Super Sabre New Footprint=Super Sabre
+Change Physical Footprint: Designator=BatteryIn2 Old Footprint=Super Sabre New Footprint=Super Sabre
+Change Physical Footprint: Designator=C1 Old Footprint=CAPPR55-200-1100X500X1200 New Footprint=CAPPR55-200-1100X500X1200
+Change Physical Footprint: Designator=C2 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C3 Old Footprint=CAP_SMD_CAN New Footprint=CAP_SMD_CAN
+Change Physical Footprint: Designator=C4 Old Footprint=CAPPR55-200-1100X500X1200 New Footprint=CAPPR55-200-1100X500X1200
+Change Physical Footprint: Designator=C5 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C6 Old Footprint=CAP_SMD_CAN New Footprint=CAP_SMD_CAN
+Change Physical Footprint: Designator=C7 Old Footprint=CAPPR55-200-1100X500X1200 New Footprint=CAPPR55-200-1100X500X1200
+Change Physical Footprint: Designator=C8 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C9 Old Footprint=CAP_SMD_CAN New Footprint=CAP_SMD_CAN
+Change Physical Footprint: Designator=C10 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C11 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C12 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C13 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C14 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C15 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C16 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C17 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C18 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C19 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C20 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C21 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C22 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=C23 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Physical Footprint: Designator=CAN Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=CAN1 Old Footprint=microfit 4 pin New Footprint=microfit 4 pin
+Change Physical Footprint: Designator=CAN2 Old Footprint=microfit 4 pin New Footprint=microfit 4 pin
+Change Physical Footprint: Designator=CAN3 Old Footprint=microfit 4 pin New Footprint=microfit 4 pin
+Change Physical Footprint: Designator=CAN Termination Old Footprint=HDR1X3 New Footprint=HDR1X3
+Change Physical Footprint: Designator=Debug Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=F1 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F2 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F3 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F4 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F5 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F6 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F7 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F8 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F9 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F10 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F11 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F12 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F13 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F14 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F15 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=F16 Old Footprint=Screw Hole New Footprint=Screw Hole
+Change Physical Footprint: Designator=Fault Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=PowerIn Old Footprint=0805_A New Footprint=0805_A
+Change Physical Footprint: Designator=Programming Header Old Footprint=programming3D New Footprint=programming3D
+Change Physical Footprint: Designator=R1 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R2 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R3 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R8 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R9 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R10 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R11 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R12 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R13 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R14 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R15 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R16 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R17 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R18 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R19 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R20 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R21 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R22 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R23 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=R24 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_N
+Change Physical Footprint: Designator=Reset Old Footprint=Switch 6mm 24V (NO) New Footprint=Switch 6mm 24V (NO)
+Change Physical Footprint: Designator=Standard Header Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Physical Footprint: Designator=Standard Header1 Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Physical Footprint: Designator=Standard Header2 Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Physical Footprint: Designator=Standard Header3 Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Physical Footprint: Designator=SW1 Old Footprint=CKCP-TDA04H0SB1R_V New Footprint=CKCP-TDA04H0SB1R_V
+Change Physical Footprint: Designator=TP1 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP2 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP3 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP4 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP5 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP6 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP7 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP8 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP9 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP10 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP11 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP12 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP13 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP14 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=TP15 Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Physical Footprint: Designator=U1 Old Footprint=EUK0007A New Footprint=EUK0007A
+Change Physical Footprint: Designator=U2 Old Footprint=EUK0007A New Footprint=EUK0007A
+Change Physical Footprint: Designator=U3 Old Footprint=EUK0007A New Footprint=EUK0007A
+Change Physical Footprint: Designator=U4 Old Footprint=OKI-78SR-HORIZONTAL New Footprint=OKI-78SR-HORIZONTAL
+Change Physical Footprint: Designator=U5 Old Footprint=DGS0010A_N New Footprint=DGS0010A_N
+Change Physical Footprint: Designator=U6 Old Footprint=DGS0010A_N New Footprint=DGS0010A_N
+Change Physical Footprint: Designator=U7 Old Footprint=DGS0010A_N New Footprint=DGS0010A_N
+Change Physical Footprint: Designator=U8 Old Footprint=DGS0010A_N New Footprint=DGS0010A_N
+Change Physical Footprint: Designator=U9 Old Footprint=TQFP50P1200X1200X160-64N New Footprint=TQFP50P1200X1200X160-64N
+Change Physical Footprint: Designator=U10 Old Footprint=SOIC127P600X175-8N New Footprint=SOIC127P600X175-8N
+Change Physical Footprint: Designator=UART Debug Old Footprint=UART Debugging Header New Footprint=UART Debugging Header
+Change Physical Footprint: Designator=Y1 Old Footprint=SG-636_3D New Footprint=SG-636_3D

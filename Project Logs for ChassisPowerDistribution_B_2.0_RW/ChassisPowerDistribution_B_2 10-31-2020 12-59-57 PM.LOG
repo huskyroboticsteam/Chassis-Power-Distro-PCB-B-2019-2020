@@ -1,0 +1,137 @@
+Change Component Designator: OldDesignator=R23 NewDesignator=R25
+Change Component Designator: OldDesignator=R24 NewDesignator=R26
+Added Component: Designator=3V3_Current_Sense(RGB_LED_1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/broadcom-limited/ASMB-MTB1-0A3A2/5695366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://docs.broadcom.com/docs/AV02-4194EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RBG_LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3280-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "LED_RGB.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=5V_Current_Sense(RGB_LED_1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/broadcom-limited/ASMB-MTB1-0A3A2/5695366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://docs.broadcom.com/docs/AV02-4194EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RBG_LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3280-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "LED_RGB.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=12V_Current_Sense(RGB_LED_1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/broadcom-limited/ASMB-MTB1-0A3A2/5695366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://docs.broadcom.com/docs/AV02-4194EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RBG_LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3280-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "LED_RGB.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=24V_Current_Sense(RGB_LED_1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/broadcom-limited/ASMB-MTB1-0A3A2/5695366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://docs.broadcom.com/docs/AV02-4194EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RBG_LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3280-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "LED_RGB.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=Battery_Level_High(RGB_LED_1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/broadcom-limited/ASMB-MTB1-0A3A2/5695366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://docs.broadcom.com/docs/AV02-4194EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RBG_LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3280-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "LED_RGB.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=Battery_Level_Low(RGB_LED_1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/broadcom-limited/ASMB-MTB1-0A3A2/5695366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://docs.broadcom.com/docs/AV02-4194EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RBG_LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3280-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "LED_RGB.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=Battery_Level_Mid(RGB_LED_1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/broadcom-limited/ASMB-MTB1-0A3A2/5695366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://docs.broadcom.com/docs/AV02-4194EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RBG_LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3280-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "LED_RGB.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC0805(2012)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Resistor 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC0805(2012)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Resistor 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=3V3_Current_Sense-1
+Added Pin To Net: NetName=GND Pin=3V3_Current_Sense-3
+Added Pin To Net: NetName=+5 Pin=5V_Current_Sense-1
+Added Pin To Net: NetName=GND Pin=5V_Current_Sense-3
+Added Pin To Net: NetName=+5 Pin=12V_Current_Sense-1
+Added Pin To Net: NetName=GND Pin=12V_Current_Sense-3
+Added Pin To Net: NetName=+5 Pin=24V_Current_Sense-1
+Added Pin To Net: NetName=GND Pin=24V_Current_Sense-3
+Added Pin To Net: NetName=+5 Pin=Battery_Level_High-1
+Added Pin To Net: NetName=GND Pin=Battery_Level_High-3
+Added Pin To Net: NetName=+5 Pin=Battery_Level_Low-1
+Added Pin To Net: NetName=GND Pin=Battery_Level_Low-3
+Added Pin To Net: NetName=+5 Pin=Battery_Level_Mid-1
+Added Pin To Net: NetName=GND Pin=Battery_Level_Mid-3
+Added Pin To Net: NetName=Battery_LEDs Pin=R23-1
+Added Pin To Net: NetName=Battery_LEDs Pin=U9-52
+Added Net: Name=Battery_LEDs
+Added Pin To Net: NetName=Current_Sensor_LEDs Pin=R24-1
+Added Pin To Net: NetName=Current_Sensor_LEDs Pin=U9-51
+Added Net: Name=Current_Sensor_LEDs
+Added Pin To Net: NetName=Net3V3_Current_Sense_2 Pin=3V3_Current_Sense-2
+Added Pin To Net: NetName=Net3V3_Current_Sense_2 Pin=5V_Current_Sense-4
+Added Net: Name=Net3V3_Current_Sense_2
+Added Pin To Net: NetName=Net3V3_Current_Sense_4 Pin=3V3_Current_Sense-4
+Added Pin To Net: NetName=Net3V3_Current_Sense_4 Pin=R24-2
+Added Net: Name=Net3V3_Current_Sense_4
+Added Pin To Net: NetName=Net5V_Current_Sense_2 Pin=5V_Current_Sense-2
+Added Pin To Net: NetName=Net5V_Current_Sense_2 Pin=12V_Current_Sense-4
+Added Net: Name=Net5V_Current_Sense_2
+Added Pin To Net: NetName=Net12V_Current_Sense_2 Pin=12V_Current_Sense-2
+Added Pin To Net: NetName=Net12V_Current_Sense_2 Pin=24V_Current_Sense-4
+Added Net: Name=Net12V_Current_Sense_2
+Added Pin To Net: NetName=NetBattery_Level_High_2 Pin=Battery_Level_High-2
+Added Pin To Net: NetName=NetBattery_Level_High_2 Pin=Battery_Level_Mid-4
+Added Net: Name=NetBattery_Level_High_2
+Added Pin To Net: NetName=NetBattery_Level_High_4 Pin=Battery_Level_High-4
+Added Pin To Net: NetName=NetBattery_Level_High_4 Pin=R23-2
+Added Net: Name=NetBattery_Level_High_4
+Added Pin To Net: NetName=NetBattery_Level_Low_4 Pin=Battery_Level_Low-4
+Added Pin To Net: NetName=NetBattery_Level_Low_4 Pin=Battery_Level_Mid-2
+Added Net: Name=NetBattery_Level_Low_4
+Added Member To Class: ClassName=LEDs Member=Component 3V3_Current_Sense RBG_LED
+Added Member To Class: ClassName=LEDs Member=Component 5V_Current_Sense RBG_LED
+Added Member To Class: ClassName=Connectors Member=Component 12V_1 Molex 6.5MM  power connector
+Added Member To Class: ClassName=Connectors Member=Component 12V_2 Molex 6.5MM  power connector
+Added Member To Class: ClassName=Connectors Member=Component 12V_4 Molex 6.5MM  power connector
+Added Member To Class: ClassName=LEDs Member=Component 12V_Current_Sense RBG_LED
+Added Member To Class: ClassName=LEDs Member=Component 24V_Current_Sense RBG_LED
+Added Member To Class: ClassName=LEDs Member=Component Battery_Level_High RBG_LED
+Added Member To Class: ClassName=LEDs Member=Component Battery_Level_Low RBG_LED
+Added Member To Class: ClassName=LEDs Member=Component Battery_Level_Mid RBG_LED
+Added Member To Class: ClassName=LEDs Member=Component R23 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R24 Resistor 0805

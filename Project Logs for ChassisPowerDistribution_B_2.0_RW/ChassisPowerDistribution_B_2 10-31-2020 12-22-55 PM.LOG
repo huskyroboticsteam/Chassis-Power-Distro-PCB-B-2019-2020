@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=12V_1 NewDesignator=12V_2
+Change Component Designator: OldDesignator=12V_2 NewDesignator=12V_3
+Change Component Designator: OldDesignator=12V_3 NewDesignator=12V_4
+Change Component Designator: OldDesignator=12V_4 NewDesignator=12V_5
+Added Component: Designator=12V_1(power connector)
+Added Component: Designator=12V_6(power connector)
+Added Pin To Net: NetName=GND Pin=12V_1-1
+Added Pin To Net: NetName=12V_Out Pin=12V_1-2
+Added Pin To Net: NetName=GND Pin=12V_6-1
+Added Pin To Net: NetName=12V_Out Pin=12V_6-2
+Added Member To Class: ClassName=Connectors Member=Component 5V_1 Molex 6.5MM  power connector
+Added Member To Class: ClassName=Connectors Member=Component 5V_3 Molex 6.5MM  power connector
+Added Member To Class: ClassName=Connectors Member=Component 12V_1 Molex 6.5MM  power connector
+Added Member To Class: ClassName=Connectors Member=Component 12V_3 Molex 6.5MM  power connector
+Added Member To Class: ClassName=Connectors Member=Component 12V_5 Molex 6.5MM  power connector
+Added Member To Class: ClassName=Connectors Member=Component 12V_6 Molex 6.5MM  power connector
+Added Member To Class: ClassName=Connectors Member=Component 24V_1 Molex 6.5MM  power connector
+Added Member To Class: ClassName=Connectors Member=Component 24V_2 Molex 6.5MM  power connector

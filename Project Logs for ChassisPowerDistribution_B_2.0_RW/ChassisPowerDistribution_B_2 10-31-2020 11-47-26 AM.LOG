@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=5V NewDesignator=5V Board
+Change Component Designator: OldDesignator=TP1 NewDesignator=24V
+Change Component Designator: OldDesignator=TP2 NewDesignator=Power_In
+Change Component Designator: OldDesignator=TP3 NewDesignator=12V
+Change Component Designator: OldDesignator=TP4 NewDesignator=5V
+Change Component Designator: OldDesignator=TP5 NewDesignator=3V3
+Change Component Designator: OldDesignator=TP6 NewDesignator=5V_Board
+Change Component Designator: OldDesignator=TP7 NewDesignator=PSoC_Power
+Change Component Designator: OldDesignator=TP8 NewDesignator= Reset
+Change Component Designator: OldDesignator=TP9 NewDesignator=GRN
+Change Component Designator: OldDesignator=TP10 NewDesignator=CAN_STBY
+Change Component Designator: OldDesignator=TP11 NewDesignator=CAN_Power
+Change Component Designator: OldDesignator=TP14 NewDesignator=CANL
+Change Component Designator: OldDesignator=TP15 NewDesignator=CANH
+Change Net Name : Old Net Name=Net5V_2 New Net Name=Net5V Board_2
