@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Microcontroller Member=C24
+Change Component Designator: OldDesignator= Reset NewDesignator=Reset 
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW
+Added Member To Class: ClassName=Microcontroller Member=Component C19 0805 Capacitor
+Added Member To Class: ClassName=Microcontroller Member=Component C20 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C22 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component Reset  Test Point
