@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+5 Pin=C19-2
+Removed Pin From Net: NetName=+5 Pin=Reset -1
+Removed Pin From Net: NetName=+5 Pin=Reset-2a
+Change Component Designator: OldDesignator=GRN NewDesignator=GND
+Change Component Designator: OldDesignator=Programming Header NewDesignator=PRG Header
+Change Component Designator: OldDesignator=Reset  NewDesignator=Reset
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=Reset-1
+Added Pin To Net: NetName=NetC19_2 Pin=Reset-2a
+Added Net: Name=NetC19_2
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7
