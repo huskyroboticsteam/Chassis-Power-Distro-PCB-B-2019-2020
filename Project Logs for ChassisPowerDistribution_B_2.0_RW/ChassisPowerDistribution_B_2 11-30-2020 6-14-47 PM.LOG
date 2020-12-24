@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=CAN Member=C24
+Removed Member From Class: ClassName=Current Sensors Member=R11
+Removed Member From Class: ClassName=CAN Member=R18
+Removed Member From Class: ClassName=Current Sensors Member=R18
+Removed Member From Class: ClassName=Microcontroller Member=R18
+Removed Member From Class: ClassName=CAN Member=R21
+Removed Member From Class: ClassName=LEDs Member=R27
+Removed Member From Class: ClassName=LEDs Member=R28
+Change Component Designator: OldDesignator=3V3_Current_Sense NewDesignator=24V_Current_Sense
+Change Component Designator: OldDesignator=5V_Current_Sense NewDesignator=12V_Current_Sense
+Change Component Designator: OldDesignator=12V_Current_Sense NewDesignator=5V_Current_Sense
+Change Component Designator: OldDesignator=24V_Current_Sense NewDesignator=3V3_Current_Sense
+Change Component Designator: OldDesignator=CAN Termination NewDesignator=CAN TRMTN
+Change Net Name : Old Net Name=NetCAN Termination_1 New Net Name=NetCAN TRMTN_1
+Added Member To Class: ClassName=LEDs Member=Component 12V_Current_Sense RBG_LED
+Added Member To Class: ClassName=LEDs Member=Component 24V_Current_Sense RBG_LED
+Added Member To Class: ClassName=CAN Member=Component C23 Capacitor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component R8 Resistor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component R9 Resistor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component R10 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R12 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R13 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R14 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R15 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R16 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R17 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R19 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R20 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R23 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R24 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R25 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R26 Resistor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component Reset  Test Point

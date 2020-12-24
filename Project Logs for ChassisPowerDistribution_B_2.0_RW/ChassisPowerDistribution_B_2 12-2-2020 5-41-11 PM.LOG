@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Current_Sensor_LEDs Pin=U9-51
+Removed Pin From Net: NetName=Battery_LEDs Pin=U9-52
+Change Component Designator: OldDesignator=Reset  NewDesignator=Reset
+Added Pin To Net: NetName=Battery_LEDs Pin=U9-18
+Added Pin To Net: NetName=Current_Sensor_LEDs Pin=U9-19
+Added Pin To Net: NetName=+5 Pin=U9-56
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7

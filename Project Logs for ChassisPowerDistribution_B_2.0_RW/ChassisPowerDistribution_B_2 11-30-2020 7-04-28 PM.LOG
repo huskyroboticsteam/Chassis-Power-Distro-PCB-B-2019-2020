@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5 Pin=PSoC_Power-1
+Removed Pin From Net: NetName=+5 Pin=U9-56
+Removed Member From Class: ClassName=Microcontroller Member=PSoC_Power

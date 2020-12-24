@@ -1,1 +1,6 @@
-Record=TopLevelDocument|FileName=CAN.SchDoc
+Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Connectors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Converters.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Current Sensors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=LEDs.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber= 

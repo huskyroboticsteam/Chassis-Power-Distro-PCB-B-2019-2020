@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=CAN_Power NewDesignator=CAN PWR
+Change Component Designator: OldDesignator=CAN_STBY NewDesignator=CAN STBY
+Added Member To Class: ClassName=LEDs Member=Component 3V3_Current_Sense RBG_LED
+Added Member To Class: ClassName=LEDs Member=Component 12V_Current_Sense RBG_LED
