@@ -161,6 +161,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOAHLJRJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ChassisPowerDistribution_B_2.0_RW\Design Rule Check - ChassisPowerDistribution_B_2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
