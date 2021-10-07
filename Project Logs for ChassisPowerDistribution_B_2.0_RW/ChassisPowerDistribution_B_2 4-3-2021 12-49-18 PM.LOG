@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=3V3_Converter_Enable Pin=U9-43
+Added Pin To Net: NetName=3V3_Converter_Enable Pin=U9-42

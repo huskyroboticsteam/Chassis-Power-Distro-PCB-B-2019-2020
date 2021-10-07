@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=LEDs Member=C23
+Removed Member From Class: ClassName=LEDs Member=C31
+Removed Member From Class: ClassName=Connectors Member=R22
+Added Member To Class: ClassName=Microcontroller Member=Component C16 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C17 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C19 0805 Capacitor
+Added Member To Class: ClassName=Microcontroller Member=Component C20 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C22 Capacitor 0805
+Added Member To Class: ClassName=LEDs Member=Component C24 0805 Capacitor
+Added Member To Class: ClassName=LEDs Member=Component C25 0805 Capacitor
+Added Member To Class: ClassName=Microcontroller Member=Component R11 Resistor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component R12 Resistor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component R13 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R14 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R15 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R16 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R17 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R21 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R23 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R25 Resistor 0805
+Added Member To Class: ClassName=Connectors Member=Component R29 Resistor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7

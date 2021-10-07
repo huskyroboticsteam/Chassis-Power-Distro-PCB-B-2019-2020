@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=3V3_Converter_Enable Pin=U9-38
+Removed Member From Class: ClassName=Current Sensors Member=C20
+Removed Member From Class: ClassName=Current Sensors Member=C22
+Removed Member From Class: ClassName=Current Sensors Member=C23
+Removed Member From Class: ClassName=CAN Member=C31
+Removed Member From Class: ClassName=Microcontroller Member=C32
+Removed Member From Class: ClassName=Current Sensors Member=C33
+Removed Member From Class: ClassName=Microcontroller Member=C33
+Removed Member From Class: ClassName=Microcontroller Member=C34
+Removed Member From Class: ClassName=Connectors Member=F3
+Removed Member From Class: ClassName=Microcontroller Member=F13
+Removed Member From Class: ClassName=Current Sensors Member=R19
+Removed Member From Class: ClassName=Current Sensors Member=R28
+Removed Member From Class: ClassName=Microcontroller Member=R28
+Removed Member From Class: ClassName=CAN Member=R30
+Removed Member From Class: ClassName=Current Sensors Member=R30
+Removed Member From Class: ClassName=CAN Member=R32
+Removed Member From Class: ClassName=Current Sensors Member=R32
+Removed Member From Class: ClassName=CAN Member=R33
+Removed Member From Class: ClassName=Current Sensors Member=R33
+Removed Member From Class: ClassName=Current Sensors Member=R34
+Removed Member From Class: ClassName=Current Sensors Member=R36
+Removed Member From Class: ClassName=LEDs Member=R36
+Removed Member From Class: ClassName=Microcontroller Member=R36
+Removed Member From Class: ClassName=CAN Member=R38
+Removed Member From Class: ClassName=Current Sensors Member=R38
+Removed Member From Class: ClassName=LEDs Member=R38
+Added Pin To Net: NetName=3V3_Converter_Enable Pin=U9-44
+Added Member To Class: ClassName=LEDs Member=Component 5V_Current_Sense RBG_LED
+Added Member To Class: ClassName=Current Sensors Member=Component C12 0805 Capacitor
+Added Member To Class: ClassName=Current Sensors Member=Component C13 0805 Capacitor
+Added Member To Class: ClassName=Current Sensors Member=Component C14 0805 Capacitor
+Added Member To Class: ClassName=Current Sensors Member=Component C15 0805 Capacitor
+Added Member To Class: ClassName=Current Sensors Member=Component C16 Capacitor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component C17 Capacitor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component C18 Capacitor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component C19 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C21 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C24 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C25 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C26 Capacitor 0805
+Added Member To Class: ClassName=CAN Member=Component C27 Capacitor 0805
+Added Member To Class: ClassName=LEDs Member=Component C28 0805 Capacitor
+Added Member To Class: ClassName=LEDs Member=Component C29 0805 Capacitor
+Added Member To Class: ClassName=LEDs Member=Component C30 0805 Capacitor
+Added Member To Class: ClassName=Microcontroller Member=Component F2 Screw Hole
+Added Member To Class: ClassName=Microcontroller Member=Component F4 Screw Hole
+Added Member To Class: ClassName=Connectors Member=Component F6 Screw Hole
+Added Member To Class: ClassName=Connectors Member=Component F8 Screw Hole
+Added Member To Class: ClassName=Connectors Member=Component F10 Screw Hole
+Added Member To Class: ClassName=Connectors Member=Component F12 Screw Hole
+Added Member To Class: ClassName=Connectors Member=Component PRG Header Programming Header
+Added Member To Class: ClassName=Current Sensors Member=Component R11 Resistor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component R12 Resistor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component R13 Resistor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component R14 Resistor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component R15 Resistor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component R16 Resistor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component R17 Resistor 0805
+Added Member To Class: ClassName=Current Sensors Member=Component R18 Resistor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component R20 Resistor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component R21 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R22 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R23 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R24 Resistor 0805
+Added Member To Class: ClassName=CAN Member=Component R25 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R26 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R27 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R29 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R31 Resistor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component Reset  Test Point

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V_Converter_Enable Pin=U9-16
+Removed Pin From Net: NetName=5V_Alert Pin=U9-18
+Added Pin To Net: NetName=5V_Alert Pin=U9-16
+Added Pin To Net: NetName=5V_Converter_Enable Pin=U9-18
+Added Member To Class: ClassName=LEDs Member=Component 5V PWR Yellow LED
+Added Member To Class: ClassName=LEDs Member=Component CAN Blue LED
+Added Member To Class: ClassName=LEDs Member=Component Debug Green LED
+Added Member To Class: ClassName=LEDs Member=Component Fault Red LED
+Added Member To Class: ClassName=LEDs Member=Component R31 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R32 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R33 Resistor 0805
+Added Member To Class: ClassName=LEDs Member=Component R34 Resistor 0805

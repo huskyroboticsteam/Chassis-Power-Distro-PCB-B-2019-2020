@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=12V_Converter_Enable Pin=U9-24
+Removed Pin From Net: NetName=5V_Converter_Enable Pin=U9-37
+Added Pin To Net: NetName=5V_Converter_Enable Pin=U9-16
+Added Pin To Net: NetName=12V_Converter_Enable Pin=U9-37
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7

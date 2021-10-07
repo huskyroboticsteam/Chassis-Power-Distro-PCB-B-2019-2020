@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=24V_Alert Pin=U9-29
+Removed Pin From Net: NetName=12V_Alert Pin=U9-30
+Removed Pin From Net: NetName=5V_Alert Pin=U9-31
+Removed Pin From Net: NetName=3V3_Alert Pin=U9-32
+Added Pin To Net: NetName=3V3_Alert Pin=U9-29
+Added Pin To Net: NetName=5V_Alert Pin=U9-30
+Added Pin To Net: NetName=12V_Alert Pin=U9-31
+Added Pin To Net: NetName=24V_Alert Pin=U9-32
+Added Member To Class: ClassName=LEDs Member=Component 5V_Current_Sense RBG_LED
+Added Member To Class: ClassName=LEDs Member=Component 24V_Current_Sense RBG_LED
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7

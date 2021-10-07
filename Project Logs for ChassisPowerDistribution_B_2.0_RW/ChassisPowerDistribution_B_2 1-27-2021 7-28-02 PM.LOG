@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=3V3_Current_Sense NewDesignator=24V_Current_Sense
+Change Component Designator: OldDesignator=5V_Current_Sense NewDesignator=12V_Current_Sense
+Change Component Designator: OldDesignator=12V_Current_Sense NewDesignator=5V_Current_Sense
+Change Component Designator: OldDesignator=24V_Current_Sense NewDesignator=3V3_Current_Sense
+Change Net Name : Old Net Name=Net3V3_Current_Sense_2 New Net Name=Net12V_Current_Sense_4
+Change Net Name : Old Net Name=Net3V3_Current_Sense_4 New Net Name=Net24V_Current_Sense_4
+Change Net Name : Old Net Name=Net5V_Current_Sense_2 New Net Name=Net5V_Current_Sense_4
+Change Net Name : Old Net Name=Net12V_Current_Sense_2 New Net Name=Net3V3_Current_Sense_4
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7

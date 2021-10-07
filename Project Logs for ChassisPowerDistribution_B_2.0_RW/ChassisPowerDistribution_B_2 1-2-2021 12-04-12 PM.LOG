@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=GND Pin=CAN STBY-1
+Removed Pin From Net: NetName=UARTTX Pin=UART Debug-1
+Removed Pin From Net: NetName=UARTRX Pin=UART Debug-2
+Removed Member From Class: ClassName=Current Sensors Member=C17
+Removed Member From Class: ClassName=Microcontroller Member=C24
+Removed Member From Class: ClassName=CAN Member=CAN STBY
+Removed Member From Class: ClassName=Microcontroller Member=R20
+Change component parameters: Designator = "R7" ("R7"); Footprint = "Shunt Resistor"; UniqueID = "\VZOEDUUZ" ("\VZOEDUUZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/SR32L500FE66/7560303?s=N4IgTCBcDaIM4CcDMYA2BWADJkBdAvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/31067/sr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Current Sensing resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "541-3933-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "CAN Termination Resistor 0805.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.5 mOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "Shunt Resistor"; UniqueID = "\KVKUDKGK" ("\KVKUDKGK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/SR32L500FE66/7560303?s=N4IgTCBcDaIM4CcDMYA2BWADJkBdAvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/31067/sr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Current Sensing resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "541-3933-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "CAN Termination Resistor 0805.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.5 mOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "Shunt Resistor"; UniqueID = "\HPZAUYHL" ("\HPZAUYHL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/SR32L500FE66/7560303?s=N4IgTCBcDaIM4CcDMYA2BWADJkBdAvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/31067/sr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Current Sensing resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "541-3933-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "CAN Termination Resistor 0805.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.5 mOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "Shunt Resistor"; UniqueID = "\ZCLAICCX" ("\ZCLAICCX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key_Purchase_URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/SR32L500FE66/7560303?s=N4IgTCBcDaIM4CcDMYA2BWADJkBdAvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet_Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/31067/sr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Current Sensing resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "541-3933-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "CAN Termination Resistor 0805.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.5 mOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "RESC0805(2012)_N"; UniqueID = "\DSRSUXDE" ("\DSRSUXDE")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47 kOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC0805(2012)_N"; UniqueID = "\CVGOLLSK" ("\CVGOLLSK")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Resistor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 kOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC0805(2012)_N"; UniqueID = "\QJEFCTZZ" ("\QJEFCTZZ")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Resistor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.65 kOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UARTRX Pin=UART Debug-1
+Added Pin To Net: NetName=UARTTX Pin=UART Debug-2
+Added Member To Class: ClassName=Current Sensors Member=Component C16 0805 Capacitor
+Added Member To Class: ClassName=Microcontroller Member=Component C18 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C20 0805 Capacitor
+Added Member To Class: ClassName=Microcontroller Member=Component C21 Capacitor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component C23 Capacitor 0805
+Added Member To Class: ClassName=Connectors Member=Component R20 Resistor 0805
+Added Member To Class: ClassName=Microcontroller Member=Component Reset  Test Point

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Net3V3_Current_Sense_4 Pin=R28-2
+Removed Member From Class: ClassName=LEDs Member=R28
+Added Pin To Net: NetName=Net3V3_Current_Sense_4 Pin=Battery_Level_Low-2
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7

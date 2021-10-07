@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3V3_Alert Pin=U9-29
+Removed Pin From Net: NetName=5V_Alert Pin=U9-30
+Removed Pin From Net: NetName=12V_Alert Pin=U9-31
+Removed Pin From Net: NetName=24V_Alert Pin=U9-32
+Removed Pin From Net: NetName=Battery_LEDs Pin=U9-33
+Added Pin To Net: NetName=3V3_Alert Pin=U9-15
+Added Pin To Net: NetName=5V_Alert Pin=U9-18
+Added Pin To Net: NetName=12V_Alert Pin=U9-19
+Added Pin To Net: NetName=24V_Alert Pin=U9-29
+Added Pin To Net: NetName=Battery_LEDs Pin=U9-30
+Added Member To Class: ClassName=Microcontroller Member=Component Reset  Test Point

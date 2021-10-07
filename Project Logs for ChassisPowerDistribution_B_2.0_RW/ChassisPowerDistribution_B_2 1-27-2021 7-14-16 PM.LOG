@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LED CAN Pin=U9-41
+Removed Pin From Net: NetName=LED Debug Pin=U9-42
+Removed Pin From Net: NetName=LED Fault Pin=U9-43
+Added Pin To Net: NetName=LED CAN Pin=U9-12
+Added Pin To Net: NetName=LED Debug Pin=U9-13
+Added Pin To Net: NetName=LED Fault Pin=U9-14
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7

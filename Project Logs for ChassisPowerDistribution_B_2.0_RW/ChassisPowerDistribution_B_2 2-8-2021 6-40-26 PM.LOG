@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Battery_LEDs Pin=U9-18
+Added Pin To Net: NetName=Battery_LEDs Pin=U9-33
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7

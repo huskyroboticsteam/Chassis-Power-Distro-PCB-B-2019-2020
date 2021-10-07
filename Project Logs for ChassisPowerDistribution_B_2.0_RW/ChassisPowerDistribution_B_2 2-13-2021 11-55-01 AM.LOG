@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Power_In Pin=24V-1
+Removed Member From Class: ClassName=Converters Member=24V
+Change Component Footprint: Designator=24V Old Footprint=Test Point Through-hole New Footprint=Test Point Through-hole
+Change Component Designator: OldDesignator=F1 NewDesignator=F1 
+Change Component Designator: OldDesignator=Reset NewDesignator=Reset 
+Change Managed Component Library Link : Designator=24V Old VaultGUID= New VaultGUID=0540fcec-2608-4679-aba5-fd3852aaa5c0 Old ItemGUID= New ItemGUID=DD4056AB-16BB-49DC-A20F-A3C56777CC92 Old RevisionGUID= New RevisionGUID=CD1FD3A5-9C56-41DD-B1D7-FDB0C9990B80
+Change component parameters: Designator = "24V" ("24V"); Footprint = "Test Point Through-hole"; UniqueID = "\FYSGSIJM" ("\FYSGSIJM")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Test Point"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Test Points.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V_Out Pin=24V-1
+Added Member To Class: ClassName=Connectors Member=Component 24V Test Point
+Added Member To Class: ClassName=Microcontroller Member=Component Reset  Test Point

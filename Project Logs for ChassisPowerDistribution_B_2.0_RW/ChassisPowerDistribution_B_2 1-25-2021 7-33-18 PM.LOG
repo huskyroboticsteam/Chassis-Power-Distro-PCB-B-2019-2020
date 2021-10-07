@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Reset Pin=C19-2
+Added Pin To Net: NetName=Reset Pin=Reset-1
+Added Pin To Net: NetName=Reset Pin=Reset-2a
+Added Member To Class: ClassName=Microcontroller Member=Component Reset 1825910-7

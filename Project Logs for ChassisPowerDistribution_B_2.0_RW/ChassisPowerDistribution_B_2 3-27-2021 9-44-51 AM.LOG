@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=Current_Sensor_SCL Pin=U9-27
+Removed Pin From Net: NetName=Current_Sensor_SDA Pin=U9-28
+Removed Member From Class: ClassName=Microcontroller Member=F1
+Change Component Designator: OldDesignator=F1  NewDesignator=F2
+Change Component Designator: OldDesignator=F2 NewDesignator=F3
+Change Component Designator: OldDesignator=F3 NewDesignator=F4
+Change Component Designator: OldDesignator=F4 NewDesignator=F5
+Change Component Designator: OldDesignator=F5 NewDesignator=F6
+Change Component Designator: OldDesignator=F6 NewDesignator=F7
+Change Component Designator: OldDesignator=F7 NewDesignator=F8
+Change Component Designator: OldDesignator=F8 NewDesignator=F9
+Change Component Designator: OldDesignator=F9 NewDesignator=F10
+Change Component Designator: OldDesignator=F10 NewDesignator=F11
+Change Component Designator: OldDesignator=F11 NewDesignator=F12
+Change Component Designator: OldDesignator=F12 NewDesignator=F13
+Change Component Designator: OldDesignator=F13 NewDesignator=F14
+Change Component Designator: OldDesignator=F14 NewDesignator=F15
+Change Component Designator: OldDesignator=F15 NewDesignator=F16
+Change Component Designator: OldDesignator=F16 NewDesignator=F17
+Added Pin To Net: NetName=Current_Sensor_SCL Pin=U9-2
+Added Pin To Net: NetName=Current_Sensor_SDA Pin=U9-3
+Added Member To Class: ClassName=Microcontroller Member=Component F5 Screw Hole
+Added Member To Class: ClassName=Microcontroller Member=Component Reset  Test Point
