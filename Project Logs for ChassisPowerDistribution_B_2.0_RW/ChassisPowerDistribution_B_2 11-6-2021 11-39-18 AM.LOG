@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=Connectors Member=F14
+Removed Member From Class: ClassName=Connectors Member=F15
+Removed Member From Class: ClassName=Connectors Member=F16
+Removed Member From Class: ClassName=Connectors Member=F17
+Change Component Footprint: Designator=3.3V O Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=5V O Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=5V PWR Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=12V O Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=24V O Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=CAN Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=Debug Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=Fault Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=PWR In Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=C2 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C5 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C8 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C10 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C11 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C16 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C17 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C18 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C19 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C20 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C21 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C22 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C24 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C25 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C26 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C27 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=C35 Old Footprint=Cap 0805 New Footprint=Cap 0805
+Change Component Footprint: Designator=Standard Header1 Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Component Footprint: Designator=Standard Header2 Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Component Footprint: Designator=Standard Header3 Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Component Footprint: Designator=Standard Header Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Added Member To Class: ClassName=Converters Member=Component C1 ECA1HM100
+Added Member To Class: ClassName=Microcontroller Member=Component Reset  Test Point

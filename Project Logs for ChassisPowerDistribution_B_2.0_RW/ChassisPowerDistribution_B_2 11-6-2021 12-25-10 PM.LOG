@@ -1,0 +1,20 @@
+Change Component DesignItemId : Designator=Standard Header Old DesignItemId=CMP-1023-00300-1 New DesignItemId=Stacking Header
+Change Component Footprint: Designator=Standard Header Old Footprint=SMTC-SSQ-108-02-X-D New Footprint=SMTC-SSQ-108-02-X-D
+Change Component Comment : Designator=Standard Header Old Comment=SMTC-SSQ-108-02-X-D New Comment=Stacking Header
+Change Component Library : Designator=Standard Header Old Library=Altium Content Vault New Library=Husky Robotics Standard Library 2019-2020.IntLib
+Added Pin To Net: NetName=5V_Out Pin=Standard Header-1
+Added Pin To Net: NetName=3V3_Out Pin=Standard Header-2
+Added Pin To Net: NetName=CANH Pin=Standard Header-3
+Added Pin To Net: NetName=CANL Pin=Standard Header-4
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-5
+Added Pin To Net: NetName=GND Pin=Standard Header-6
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-7
+Added Pin To Net: NetName=GND Pin=Standard Header-8
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-9
+Added Pin To Net: NetName=GND Pin=Standard Header-10
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-11
+Added Pin To Net: NetName=GND Pin=Standard Header-12
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-13
+Added Pin To Net: NetName=GND Pin=Standard Header-14
+Added Pin To Net: NetName=24V_Out Pin=Standard Header-15
+Added Pin To Net: NetName=GND Pin=Standard Header-16
